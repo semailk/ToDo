@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap');
+
+.content {
+    font-family: 'Roboto', sans-serif;
+    height: 100%;
+}
+
+
+
+.To-fulfillment {
+    background: #dc6b6b;
+    height: 100%;
+}
+
+.Performed {
+    background: seagreen;
+    height: 100%;
+}
